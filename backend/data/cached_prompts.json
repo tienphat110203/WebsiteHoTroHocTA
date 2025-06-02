@@ -1,0 +1,65 @@
+[
+  {
+    "prompt_name": "Exploring Venus",
+    "assignment": "In \"The Challenge of Exploring Venus,\" the author suggests studying Venus is a worthy pursuit despite the dangers it presents. Using details from the article, write an essay evaluating how well the author supports this idea. Be sure to include: a claim that evaluates how well the author supports the idea that studying Venus is a worthy pursuit despite the dangers; an explanation of the evidence from the article that supports your claim; an introduction, a body, and a conclusion to your essay.",
+    "source_text_1": "The Challenge of Exploring Venus\nVenus, sometimes called the “Evening Star,” is one of the brightest points of light in the night sky, making it simple for even and amateur stargazer to spot. However, this nickname is misleading since Venus is actually a planet. While Venus is simple to see from the distant but safe vantage point of Earth, it has proved a very challenging place to examine more closely. \nOften referred to as Earth's “twin,” Venus is the closest planet to Earth in terms of density and size, and occasionally the closest in distance too. Earth, Venus, and Mars, our other planetary neighbor, orbit the sun at different speeds. These differences in speed mean that sometimes we are closer to Mars and other times to Venus. Because Venus is sometimes right around the corner - in space terms - humans have spent numerous spacecraft to land on this cloud-draped world. Each previous mission was unmanned, and for good reason, since no spacecraft survived the landing for more than a few hours. Maybe this issue explains why not a single spaceship has touched down of Venus in more than three decades. Numberous factors contribute to Venus's reputation as a challenging planet for humans to study, despite its proximity to us. \nA thick atmosphere of almost 97 percent carbon dioxide blankets Venus. Even more challenging are the clouds of highly corrosive sulfuric acid in Venus's atmosphere. On the planet's surface, temperatures average over 800 degrees Fahrenheit, and the atmospheric pressure is 90 times greater than what we experience on our own planet. These conditions are far more extreme than anything humans encounter on Earth; such an environment would crush even a submarine accustomed to diving to the deepest parts of our oceans and would liquefy many metals. Also notable, Venus has the hottest surface temperature of any planet in our solar system, even though Mercury is closer to our sun. Beyond high presure and heat, Venusian geology and weather present additional impediments like erupting volcanoes, powerful earthquakes, and frequent lightning strikes to probes seeking to land on its surface. \nIf our sister is so inhospitable, why are scientists even discussing further visits to its surface? Astronomers are fascinated by Venus beccause it may well once have been the most Earth-like planet in our solar system. Long ago, Venus was probably covered largely with oceans and could have supported various forms of life, just like Earth. Today, Venus still has some features that are analogous to those on Earth. The planet has a surface of rocky sediment and includes familiar features such as valleys, mountains, and craters. Furthermore, recall that Venus can sometimes be our nearest option for a planetary visit, a crucial consideration given the long time frames of space travel. The value of returning to Venus seems indisputable, but what are the options for making such a mission both safe and scientifically productive?\nThe National Aeronautics and Space Administration (NASA) has one particularly compelling idea for sending humans to study Venus. NASA's possible solution to the hostile conditions on the surface of Venus would allow scientists to float above the fray. Imagine a blimp-like vehicle hovering 30 or so miles above the roiling Venusian landscape. Just as our jet airplanes travel at a higher altitude to fly over many storms, a vehicle hovering over Venus would avoid the unfriendly ground conditions by staying up and out of their way. At thirty-plus miles above the surface, temperatures would still be toasty at around 170 degrees Farenheit, but the air pressure would be close to that of sea level on Earth. Solar power would be plentiful, and radiation would not exceed Earth levels. Not easy conditions, but survivable for humans.\nHowever, peering at Venus from a ship orbiting or hovering safely far above the planet can provide only limited insight on ground conditions rendering standard forms of photography and videography ineffective. More importantly, researchers cannot take samples of rock, gas, or anything else, from a distance. Therefore, scientists seeking to conduct a thorough mission to understand Venus would need to get up close and personal despite the risks. Or maybe we should think of them as challenges. Many researchers are working on innovattions that would allow our machines to last long enough to contribute meaningfully to our knowledge of Venus. \nNASA is working on other approaches to studying Venus. For example, some simplified electronics made of silicon carbide have been tested in a chamber simuulating the chaos of Venus's surface and have laster for three weeks in such conditions. Another project is looking back to an old technology called mechanical computers. These devices were first envisioned in the 1800s and played an important role int he 1940s during World War II. The thought of computers existing in those days may sound shocking, but these devices make calculations by using gears and levers and do not require electronics at all. Modern commputers are enormously powerful, flexible, and quick, but tend to be more delicate when it comes to extreme physical conditions. Just imagine exposing a cell phone or tablet to acid or heat capable of melting tin. By comparison, systems that use mechanical parts can be made mroe resistant to pressure, heat, and other forces. \nStriving to meet the challenge presented by Venus has value, not only because of the insight to be gained on the planet itself, but also because human curiousity will likely lead us into many equally intimidating endeavors. Our travels on Earth and beyond should not be limited by dangers and doubts but should be expanded to meet the very edges of imagination and innovation.",
+    "source_text_2": "NA",
+    "source_text_3": "NA",
+    "source_text_4": "NA"
+  },
+  {
+    "prompt_name": "Facial Action Coding System",
+    "assignment": "Write an essay arguing whether the use of technology to read emotional expressions of students in a classroom is valuable.",
+    "source_text_1": "Making Mona Lisa Smile\nImagine being able to detect exactly how other people are feeling, even when they are trying to hide their emotions. New software has been developed that improves accuracy in perceiving the emotions of others. The software is the latest innovation from Prof. Thomas Huang, of the Beckman Institute for Advanced Science at the University of Illinois, working in collaboration with Prof. Nicu Sebe of the University of Amsterdam."
+  },
+  {
+    "prompt_name": "Driverless Cars",
+    "assignment": "Write an essay arguing whether the development of driverless cars is a positive or negative advancement for society.",
+    "source_text_1": "Driverless Cars are Coming\nCan you imagine a world where cars drive themselves? That world may be closer than you think. Google has had cars that could drive independently under perfect conditions since 2009, and their cars have driven more than half a million miles without a crash. But perfect conditions aren't always available."
+  },
+  {
+    "prompt_name": "The Electoral College",
+    "assignment": "Write an essay arguing whether the Electoral College system should be kept or changed to election by popular vote.",
+    "source_text_1": "Does the Electoral College Work?\nThe Electoral College is a process, not a place. The founding fathers established it in the Constitution as a compromise between election of the President by a vote in Congress and election of the President by a popular vote of qualified citizens."
+  },
+  {
+    "prompt_name": "Cell Phones in School",
+    "assignment": "Write an essay arguing whether students should be allowed to use cell phones in schools.",
+    "source_text_1": "Cell Phones: Classroom Tool or Distraction?\nIn today's digital age, cell phones have become ubiquitous among teenagers. The question of whether these devices should be allowed in schools has become a contentious issue among educators, parents, and students alike."
+  },
+  {
+    "prompt_name": "Community Service Requirement",
+    "assignment": "Write an essay arguing whether community service should be required for all high school students.",
+    "source_text_1": "The Value of Community Service\nMany schools across the nation are considering mandatory community service programs for their students. Proponents argue that such programs build character and civic responsibility, while critics question whether forced volunteerism defeats the purpose."
+  },
+  {
+    "prompt_name": "Online Learning vs Traditional Classroom",
+    "assignment": "Write an essay comparing online learning and traditional classroom learning, arguing which is more effective.",
+    "source_text_1": "The Future of Education\nThe COVID-19 pandemic has accelerated the adoption of online learning platforms worldwide. As schools and universities adapt to new technologies, the debate over the effectiveness of virtual versus in-person education continues to evolve."
+  },
+  {
+    "prompt_name": "Social Media Impact",
+    "assignment": "Write an essay arguing whether social media has a positive or negative impact on teenagers.",
+    "source_text_1": "Social Media and Teen Mental Health\nSocial media platforms have revolutionized how teenagers communicate, share experiences, and form relationships. However, recent studies have raised concerns about the potential negative effects on mental health and social development."
+  },
+  {
+    "prompt_name": "Climate Change Solutions",
+    "assignment": "Write an essay discussing the most effective approaches to addressing climate change.",
+    "source_text_1": "The Climate Crisis\nAs global temperatures continue to rise, scientists warn that immediate action is necessary to prevent catastrophic consequences. Various solutions have been proposed, from technological innovations to policy changes and individual lifestyle adjustments."
+  },
+  {
+    "prompt_name": "Universal Basic Income",
+    "assignment": "Write an essay evaluating the potential benefits and drawbacks of implementing universal basic income.",
+    "source_text_1": "Economic Security in the Modern Age\nUniversal Basic Income (UBI) proposes providing all citizens with a regular stipend regardless of employment status. Proponents argue it could reduce poverty and provide economic security in an increasingly automated world, while critics question its feasibility and potential effects on work incentives."
+  },
+  {
+    "prompt_name": "Artificial Intelligence Ethics",
+    "assignment": "Write an essay exploring the ethical considerations surrounding artificial intelligence development.",
+    "source_text_1": "The AI Revolution\nAs artificial intelligence systems become increasingly sophisticated, they raise profound ethical questions about privacy, autonomy, bias, and the future of human work. How society addresses these concerns will shape the development and implementation of AI technologies for generations to come."
+  },
+  {
+    "prompt_name": "Space Exploration Funding",
+    "assignment": "Write an essay arguing whether increased funding for space exploration is justified.",
+    "source_text_1": "The Final Frontier\nSpace exploration has led to numerous technological advances and scientific discoveries, but it requires substantial financial investment. As nations and private companies expand their space programs, debates continue about the appropriate allocation of resources between space initiatives and pressing terrestrial needs."
+  }
+]
